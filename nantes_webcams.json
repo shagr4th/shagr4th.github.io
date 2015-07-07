@@ -1,4 +1,4 @@
-[  
+{ "webcams": [  
    {  
       "id":701,
       "url":"Pont du Cens",
@@ -568,4 +568,4 @@
       "latitude":47.28059,
       "longitude":-1.51413
    }
-]
+]}
