@@ -2,27 +2,28 @@
    {  
       "id":701,
       "url":"Pont du Cens",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt701.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt701/snap_c1.jpg",
       "latitude":47.24741,
       "longitude":-1.57745
    },
    {  
       "id":702,
       "url":"Ront point de Rennes",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt702.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt702/snap_c1.jpg",
       "latitude":47.23337,
       "longitude":-1.56582
    },
    {  
       "id":703,
       "url":"Michelet",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt703.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt703/snap_c1.jpg",
       "latitude":47.23301,
       "longitude":-1.55656
    },
    {  
       "id":704,
       "url":"Pont Morand",
+      "obsolete": "true",
       "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt704.jpg",
       "latitude":47.22119,
       "longitude":-1.5556
@@ -30,28 +31,28 @@
    {  
       "id":705,
       "url":"Tortière",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt705.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt705/snap_c1.jpg",
       "latitude":47.23533,
       "longitude":-1.5487
    },
    {  
       "id":706,
       "url":"Hôtel Dieu",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt706.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt706/snap_c1.jpg",
       "latitude":47.21255,
       "longitude":-1.55412
    },
    {  
       "id":707,
       "url":"Liberté-Chevreul",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt707.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt707/snap_c1.jpg",
       "latitude":47.19827,
       "longitude":-1.5885
    },
    {  
       "id":708,
       "url":"Beauséjour",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt708.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt708/snap_c1.jpg",
       "latitude":47.23762,
       "longitude":-1.58620
    },
@@ -86,7 +87,7 @@
    {  
       "id":713,
       "url":"Anne de Bretagne",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt713.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt713/snap_c1.jpg",
       "latitude":47.20922,
       "longitude":-1.5667
    },
@@ -100,6 +101,7 @@
    {  
       "id":715,
       "url":"Duchesse Anne",
+      "obsolete": "true",
       "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt715.jpg",
       "latitude":47.21643,
       "longitude":-1.54693
@@ -226,7 +228,7 @@
    {  
       "id":735,
       "url":"Petit Port",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt735.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt735/snap_c1.jpg",
       "latitude":47.24349,
       "longitude":-1.5566
    },
@@ -240,21 +242,21 @@
    {  
       "id":737,
       "url":"Croix des Herses",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt737.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt737/snap_c1.jpg",
       "latitude":47.19296,
       "longitude":-1.52775
    },
    {  
       "id":738,
       "url":"Rezé Saint Paul",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt738.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt738/snap_c1.jpg",
       "latitude":47.18479,
       "longitude":-1.54617
    },
    {  
       "id":739,
       "url":"Raymond Poincaré",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt739.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt739/snap_c1.jpg",
       "latitude":47.22235,
       "longitude":-1.58540
    },
@@ -380,7 +382,7 @@
    {  
       "id":759,
       "url":"Porte de la Chapelle",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt759.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt759/snap_c1.jpg",
       "latitude":47.259562,
       "longitude":-1.557301
    },
@@ -434,6 +436,13 @@
       "longitude":-1.533172
    },
    {  
+      "id":773,
+      "url":"Kennedy Mercoeur",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt773.jpg",
+      "latitude":47.2143887,
+      "longitude":-1.549971
+   },
+   {  
       "id":774,
       "url":"Millerand",
       "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt774.jpg",
@@ -457,7 +466,7 @@
    {  
       "id":777,
       "url":"Quai des Antilles",
-      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt777.jpg",
+      "name":"http://infotrafic.nantesmetropole.fr/data/webcams/rt777/snap_c1.jpg",
       "latitude":47.19982,
       "longitude":-1.5732
    },
