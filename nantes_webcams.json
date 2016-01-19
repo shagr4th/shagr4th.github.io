@@ -92,21 +92,6 @@
       "longitude":-1.5667
    },
    {  
-      "id":714,
-      "name":"Rond point de Paris 1",
-      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt714.jpg",
-      "latitude":47.23397,
-      "longitude":-1.53561
-   },
-   {  
-      "id":715,
-      "name":"Duchesse Anne",
-      "obsolete": "true",
-      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt715.jpg",
-      "latitude":47.21643,
-      "longitude":-1.54693
-   },
-   {  
       "id":716,
       "name":"Marguyonnes",
       "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt716.jpg",
@@ -178,7 +163,7 @@
    },
    {  
       "id":727,
-      "name":"Rond point de Paris 2",
+      "name":"Rond point de Paris",
       "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt727.jpg",
       "latitude":47.23393,
       "longitude":-1.53616
@@ -235,7 +220,7 @@
    {  
       "id":736,
       "name":"Prairie de Mauves",
-      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt736.jpg",
+      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt736/snap_c1.jpg",
       "latitude":47.22037,
       "longitude":-1.516726
    },
