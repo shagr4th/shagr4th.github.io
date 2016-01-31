@@ -148,13 +148,6 @@
       "longitude":-1.55163
    },
    {  
-      "id":725,
-      "name":"Greneraie",
-      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt725.jpg",
-      "latitude":47.19805,
-      "longitude":-1.529938
-   },
-   {  
       "id":726,
       "name":"Porte de la Beaujoire",
       "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt726.jpg",
@@ -549,7 +542,7 @@
    {  
       "id":795,
       "name":"Européeens",
-      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt795.jpg",
+      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt795/snap_c1.jpg",
       "latitude":47.28059,
       "longitude":-1.51413
    }
