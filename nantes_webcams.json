@@ -545,5 +545,26 @@
       "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt795/snap_c1.jpg",
       "latitude":47.28059,
       "longitude":-1.51413
+   },
+   {  
+      "id":797,
+      "name":"Audibert",
+      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt797/snap_c1.jpg",
+      "latitude":47.208658,
+      "longitude":-1.55001
+   },
+   {  
+      "id":798,
+      "name":"Boulevard Doulon",
+      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt798/snap_c1.jpg",
+      "latitude":47.22409,
+      "longitude":-1.520407
+   },
+   {  
+      "id":799,
+      "name":"Belges-Coudray",
+      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt799/snap_c1.jpg",
+      "latitude":47.23464,
+      "longitude":-1.54129
    }
 ]}
