@@ -64,13 +64,6 @@
       "longitude":-1.56245
    },
    {  
-      "id":710,
-      "name":"Pirmil 1",
-      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt710.jpg",
-      "latitude":47.19773,
-      "longitude":-1.5422
-   },
-   {  
       "id":711,
       "name":"Pont Aristide Briand",
       "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt711.jpg",
@@ -128,7 +121,7 @@
    },
    {  
       "id":722,
-      "name":"Pirmil 2",
+      "name":"Pirmil",
       "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt722.jpg",
       "latitude":47.19770,
       "longitude":-1.5428
@@ -178,7 +171,7 @@
    {  
       "id":730,
       "name":"Bourdonnières Nord",
-      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt730.jpg",
+      "url":"http://infotrafic.nantesmetropole.fr/data/webcams/rt730/snap_c1.jpg",
       "latitude":47.18432,
       "longitude":-1.52020
    },
